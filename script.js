@@ -1,5 +1,4 @@
-//API Key - 48aa722f
-//Example - http://www.omdbapi.com/?i=tt3896198&apikey=48aa722f
+
 
 const key = '48aa722f';
 
